@@ -7,7 +7,7 @@ It includes authentication, role-based access control, and data processing featu
 Features
 ----------
 AUTHENTICATION & AUTHORIZATION
-
+------------------------------
 User signup with password hashing and stored in database
 
 Secure login using JWT token
@@ -27,7 +27,7 @@ Role-based access control
 
 
 STUDENT MANAGMENT
-
+-----------------
 Add students to specific classes
 
 Class-wise data handling (8th, 9th, 10th)
@@ -36,7 +36,7 @@ Delete student records
 
 
 MARKS AND PERFOMANCE
-
+--------------------
 Submit student marks (teacher/admin only)
 
 Fetch student marks
@@ -47,7 +47,7 @@ Subject-wise top 3 students
 
 
 TECHNOLOGY
-
+----------
 Python,
 FastAPI,
 SQLAlchemy,
@@ -70,7 +70,7 @@ PROJECT STRUCTURE
 
 ├── databaseconnect/     # DB connection
 
-
+--------------------------------------------------
 👨‍💻 Author
 
 Nigam Gouda
