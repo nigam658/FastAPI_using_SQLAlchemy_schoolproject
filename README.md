@@ -60,15 +60,20 @@ PROJECT STRUCTURE
 
 ├── routers/             # API routes
 
-├── models/              # Database models
-
-├── dblogic/             # Database operations
+├── security/            # Password hashing & verification
 
 ├── autho/               # Authentication (JWT)
 
-├── security/            # Password hashing & verification
-
 ├── databaseconnect/     # DB connection
+
+├── SQLTable.py /        # Database models (tables)
+
+├── dblogic/             # Database operations
+
+├── logic.py/            # Business logic (percentage, grade)
+
+├── model.py             # Pydantic schemas
+
 
 -----------------------
 👨‍💻 Author
