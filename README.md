@@ -8,9 +8,13 @@ Features
 
 . Authentication & Authorization :-
 User signup with password hashing and stored in database
+
 Secure login using JWT token
+
 Role-based access (Admin, Teacher, Student)
+
 Protected routes using token verification
+
 
 . User & Role Management :-
 Create users (default role: student)
