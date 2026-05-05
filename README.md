@@ -56,7 +56,6 @@ JWT Authentication,
 
 PROJECT STRUCTURE
 
-.
 ├── main.py              # Entry point
 
 ├── routers/             # API routes
