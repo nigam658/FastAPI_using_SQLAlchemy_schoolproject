@@ -6,7 +6,7 @@ It includes authentication, role-based access control, and data processing featu
 
 Features
 ----------
-. Authentication & Authorization :-
+AUTHENTICATION & AUTHORIZATION
 
 User signup with password hashing and stored in database
 
@@ -17,8 +17,8 @@ Role-based access (Admin, Teacher, Student)
 Protected routes using token verification
 
 
-USER & ROLE Management :-
--------------------------
+USER & ROLE Management 
+
 Create users (default role: student)
 
 Promote user to teacher (admin only)
@@ -26,7 +26,7 @@ Promote user to teacher (admin only)
 Role-based access control
 
 
-. Student Management :-
+STUDENT MANAGMENT
 
 Add students to specific classes
 
@@ -35,7 +35,7 @@ Class-wise data handling (8th, 9th, 10th)
 Delete student records
 
 
-. Marks & Performance :-
+MARKS AND PERFOMANCE
 
 Submit student marks (teacher/admin only)
 
@@ -46,14 +46,15 @@ Calculate percentage and grade
 Subject-wise top 3 students
 
 
-. Tech Stack :-
+TECHNOLOGY
+
 Python,
 FastAPI,
 SQLAlchemy,
 MySQL,
 JWT Authentication,
 
-Project Structure
+PROJECT STRUCTURE
 .
 ├── main.py              # Entry point
 
