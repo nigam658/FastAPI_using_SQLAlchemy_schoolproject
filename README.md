@@ -18,7 +18,7 @@ Protected routes using token verification
 
 
 USER & ROLE Management 
-
+----------------------
 Create users (default role: student)
 
 Promote user to teacher (admin only)
