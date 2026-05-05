@@ -6,7 +6,6 @@ It includes authentication, role-based access control, and data processing featu
 
 Features
 ----------
-
 . Authentication & Authorization :-
 
 User signup with password hashing and stored in database
