@@ -17,7 +17,10 @@ Role-based access (Admin, Teacher, Student)
 Protected routes using token verification
 
 
+
+
 . User & Role Management :-
+
 Create users (default role: student)
 
 Promote user to teacher (admin only)
