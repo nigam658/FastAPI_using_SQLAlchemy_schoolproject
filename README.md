@@ -55,6 +55,7 @@ MySQL,
 JWT Authentication,
 
 PROJECT STRUCTURE
+
 .
 ├── main.py              # Entry point
 
@@ -70,7 +71,7 @@ PROJECT STRUCTURE
 
 ├── databaseconnect/     # DB connection
 
---------------------------------------------------
+-----------------------
 👨‍💻 Author
 
 Nigam Gouda
